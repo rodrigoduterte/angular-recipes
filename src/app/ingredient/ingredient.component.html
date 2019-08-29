@@ -1,0 +1,22 @@
+<div [formGroup]="ingredientForm" class="ink-form" id="ingredientForm">
+    <div class="column-group gutters">
+        <div class="control-group all-20 align-right">
+            <label for="qty" class="all-20 align-left">Quantity</label>
+            <div class="control">
+                <input type="text" class="form-control" formControlName="qty">
+            </div>
+        </div>
+        <div class="control-group all-20 align-right">
+            <label for="um" class="all-20 align-left">U/M</label>
+            <div class="control">
+                <input type="text" class="form-control" formControlName="um">
+            </div>
+        </div>
+        <div class="control-group all-60 align-right">
+            <label for="ingredientName" class="all-90 align-left">Name of the Ingredient</label>
+            <div class="control">
+                <input type="text" class="form-control" formControlName="ingredientName">
+            </div>
+        </div>
+    </div>
+</div>

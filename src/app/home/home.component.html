@@ -1,0 +1,7 @@
+<ng-container *ngFor="let recipe of getRecipes(); index as i">
+    <ng-container *ngIf="recipe.recipeCategory == childCategory">
+        <li><a routerLink="/profile/{{i}}">
+            {{recipe.recipeName}}
+        </a></li>
+    </ng-container>
+</ng-container>

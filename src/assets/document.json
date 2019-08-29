@@ -1,0 +1,389 @@
+[
+  {
+    "recipeName": "Injera (Ethiopian Teff Bread)",
+    "recipeCategory": "pastry",
+    "recipePhoto": "https://images.media-allrecipes.com/userphotos/560x315/5443045.jpg",
+    "ingredients": [
+      {
+        "qty": 0.5,
+        "um": "cup",
+        "ingredientName": "white teff flour"
+      },
+      {
+        "qty": 0.25,
+        "um": "cup",
+        "ingredientName": "brown teff flour"
+      },
+      {
+        "qty": 3,
+        "um": "tablespoons",
+        "ingredientName": "white teff flour, divided, or as needed"
+      },
+      {
+        "qty": 1,
+        "um": "cup",
+        "ingredientName": "water"
+      },
+      {
+        "qty": 3,
+        "um": "tablespoons",
+        "ingredientName": "water"
+      },
+      {
+        "qty": 1,
+        "um": "teaspoon",
+        "ingredientName": "vegetable oil (optional)"
+      }
+    ],
+    "directions": [
+      {
+        "task": "Mix 1/2 cup white teff flour and brown teff flour together in a bowl. Add 1 cup water and whisk well. Pour mixture into a glass container large enough to hold 3 times the original volume. Cover with cheesecloth or other breathable fabric to keep out dust; do not seal with plastic wrap as air circulation is vital. Leave covered container in a draft-free environment; the mixture needs air to be circulated in order to ferment. Stir batter 2 times over 24 hours."
+      },
+      {
+        "task": "Check for bubbles and possibly an increase in volume after 24 hours; there may also be a slightly tangy and sour smell. When you notice these things, add 1 tablespoon white teff flour and 1 tablespoon water to the batter and whisk well. Check in a few hours to see if bubbles have again formed, mixture has increased in volume, and the pungent smell is still evident; if so, the batter is ready and you can skip to the cooking process (step 5)."
+      },
+      {
+        "task": "Leave batter to rest another 12 hours if the mixture has not begun to form or smell sour after the first 24 hours; stir once during this time. Check to see if bubbles have formed, mixture has increased in volume, and a pungent smell is evident; if so, proceed with step 4."
+      },
+      {
+        "task": "Mix together 2 tablespoons white teff flour and 2 tablespoons water in a bowl, making sure there are no lumps. Add mixture to the batter, whisking well. Wait a few hours; batter should be bubbly with a noticeable increase in volume and a pungent but fragrant smell, indicating it is ready to be cooked."
+      },
+      {
+        "task": "Heat an 8-inch crepe pan or nonstick skillet over medium heat. Add oil. Pour a scant 1/2 cup batter slowly and steadily into the hot pan in a circular motion from outside to inside. Cover the pan completely in a spiral without swirling. Cover, reduce heat to medium-low, and cook, allowing steam to cook the top of the bread, 1 to 3 minutes. Remove from pan with spatula and transfer to a plate; cover to keep warm. Repeat with remaining batter."
+      }
+    ]
+  },
+  {
+    "recipeName": "Ethiopian Chicken",
+    "recipeCategory": "meal",
+    "recipePhoto": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F423989.jpg&w=595&h=595&c=sc&poi=face&q=85",
+    "ingredients": [
+      {
+        "qty": 16,
+        "um": "pieces",
+        "ingredientName": "chicken wings, split and tips discarded"
+      },
+      {
+        "qty": 1,
+        "um": "piece",
+        "ingredientName": "onion, chopped"
+      },
+      {
+        "qty": 0.6667,
+        "um": "cup",
+        "ingredientName": "soy sauce"
+      },
+      {
+        "qty": 0.5,
+        "um": "teaspoon",
+        "ingredientName": "ground cinnamon"
+      },
+      {
+        "qty": 0.5,
+        "um": "teaspoon",
+        "ingredientName": "ground cloves"
+      },
+      {
+        "qty": 0.125,
+        "um": "teaspoon",
+        "ingredientName": "ground ginger"
+      }
+    ],
+    "directions": [
+      {
+        "task": "Place chicken wings and onion in a soup pot, and fill with enough water to cover. Bring to a boil, and cook for 20 minutes."
+      },
+      {
+        "task": "Preheat the oven to 375 degrees F (190 degrees C). While the wings are cooking, combine the soy sauce, cinnamon, cloves and ginger in a saucepan, and warm over medium heat. When chicken is done, drain water (may be reserved for other uses as a broth), and pour in the soy sauce mixture. Stir to coat all of the wings, then place them in a single layer on a cookie sheet."
+      },
+      {
+        "task": "Bake for 15 minutes in the preheated oven, or until the outsides are crispy. Baste with sauce as desired while cooking."
+      }
+    ]
+  },
+  {
+    "recipeName": "Kik Wat (Ethiopian Red Lentil Stew)",
+    "recipeCategory": "meal",
+    "recipePhoto": "https://images.media-allrecipes.com/userphotos/720x405/3163417.jpg",
+    "ingredients": [
+      {
+        "qty": 5,
+        "um": "pieces",
+        "ingredientName": "yellow onions, minced"
+      },
+      {
+        "qty": 5,
+        "um": "pieces",
+        "ingredientName": "red onions, minced"
+      },
+      {
+        "qty": 24,
+        "um": "cloves",
+        "ingredientName": "garlic minced"
+      },
+      {
+        "qty": 1.25,
+        "um": "cups",
+        "ingredientName": "canola oil"
+      },
+      {
+        "qty": 0.5,
+        "um": "cup",
+        "ingredientName": "berbere seasoning"
+      },
+      {
+        "qty": 2,
+        "um": "tablespoons",
+        "ingredientName": "berbere seasoning"
+      },
+      {
+        "qty": 2.5,
+        "um": "cups",
+        "ingredientName": "crushed tomatoes"
+      },
+      {
+        "qty": 5,
+        "um": "cups",
+        "ingredientName": "red lentils"
+      },
+      {
+        "qty": 10,
+        "um": "cups",
+        "ingredientName": "water"
+      },
+      {
+        "qty": 1.5,
+        "um": "teaspoons",
+        "ingredientName": "ground cardamom"
+      },
+      {
+        "qty": 1,
+        "um": "pinch",
+        "ingredientName": "salt and ground black pepper to taste"
+      }
+    ],
+    "directions": [
+      {
+        "task": "Place yellow onions, red onions, and garlic in a large pot over medium heat; cook and stir until fragrant, 1 to 2 minutes. Add 1/2 cup plus 2 tablespoons berbere; cook and stir until incorporated, about 3 minutes. Pour in oil and stir until combined, about 3 minutes more."
+      },
+      {
+        "task": "Stir crushed tomatoes into the pot; cook until starting to break down into the stew, about 15 minutes. Add lentils; cook and stir, about 5 minutes. Pour in water. Reduce heat and simmer until lentils are cooked through, about 15 minutes. Season stew with cardamom, salt, and ground black pepper in the last few minutes of cooking."
+      }
+    ]
+  },
+  {
+    "recipeName": "Accra Cassava (Kouti, Cassava Fritters)",
+    "recipeCategory": "dessert",
+    "recipePhoto": "https://www.africanbites.com/wp-content/uploads/2014/01/IMG_5182-2-1-150x150.jpg",
+    "ingredients": [
+      {
+        "qty": 2,
+        "um": "pounds",
+        "ingredientName": "grated cassava frozen"
+      },
+      {
+        "qty": 0.75,
+        "um": "teaspoons",
+        "ingredientName": "salt or more adjust to suit taste buds"
+      },
+      {
+        "qty": 3,
+        "um": "pieces",
+        "ingredientName": "overly ripe bananas optional"
+      }
+    ],
+    "directions": [
+      {
+        "task": "Using a cheese cloth or kitchen cloth , squeeze the grated cassava. It should be dry with very little moisture. Set aside."
+      },
+      {
+        "task": "Mash overly ripe bananas with a potato masher, spoon or place in a food processor or blender until puree."
+      }
+    ]
+  },
+  {
+    "recipeName": "Spicy African Yam Soup",
+    "recipeCategory": "soup",
+    "recipePhoto": "https://images.media-allrecipes.com/userphotos/720x405/49734.jpg",
+    "ingredients": [
+      {
+        "qty": 1,
+        "um": "teaspoon",
+        "ingredientName": "vegetable oil"
+      },
+      {
+        "qty": 1,
+        "um": "piece",
+        "ingredientName": "small onion, chopped"
+      },
+      {
+        "qty": 1,
+        "um": "piece",
+        "ingredientName": "large sweet potato, peeled and diced"
+      },
+      {
+        "qty": 1,
+        "um": "clove",
+        "ingredientName": "clove garlic, minced"
+      },
+      {
+        "qty": 4,
+        "um": "cups",
+        "ingredientName": "chicken broth"
+      },
+      {
+        "qty": 1,
+        "um": "teaspoon",
+        "ingredientName": "dried thyme"
+      },
+      {
+        "qty": 0.5,
+        "um": "teaspoon",
+        "ingredientName": "ground cumin"
+      },
+      {
+        "qty": 1,
+        "um": "cup",
+        "ingredientName": "chunky salsa"
+      },
+      {
+        "qty": 1,
+        "um": "can",
+        "ingredientName": "garbanzo beans, drained"
+      },
+      {
+        "qty": 1,
+        "um": "cup",
+        "ingredientName": "diced zucchini"
+      },
+      {
+        "qty": 0.5,
+        "um": "cup",
+        "ingredientName": "cooked rice"
+      },
+      {
+        "qty": 2,
+        "um": "tablespoons",
+        "ingredientName": "creamy peanut butter"
+      }
+    ],
+    "directions": [
+      {
+        "task": "Heat the oil in a stockpot over medium heat. Saute onion, sweet potato, and garlic until onion is soft. Turn down heat if necessary to prevent burning."
+      },
+      {
+        "task": "Stir in the chicken broth, thyme and cumin. Bring to a boil, cover and simmer for about 15 minutes. Stir in salsa, garbanzo beans and zucchini. Simmer until tender, about 15 minutes."
+      },
+      {
+        "task": "Stir in the cooked rice and peanut butter until the peanut butter has dissolved. Serve hot with pita chips and a green salad."
+      }
+    ]
+  },
+  {
+    "recipeName": "Moroccan Tuna Brik",
+    "recipeCategory": "appetizers",
+    "recipePhoto": "https://images.media-allrecipes.com/userphotos/560x315/426653.jpg",
+    "ingredients": [
+      {
+        "qty": 1,
+        "um": "tablespoon",
+        "ingredientName": "butter"
+      },
+      {
+        "qty": 1,
+        "um": "piece",
+        "ingredientName": "small onion, finely chopped"
+      },
+      {
+        "qty": 2,
+        "um": "cans",
+        "ingredientName": "tuna packed in oil, drained"
+      },
+      {
+        "qty": 2,
+        "um": "tablespoons",
+        "ingredientName": "chopped fresh parsley"
+      },
+      {
+        "qty": 1,
+        "um": "teaspoon",
+        "ingredientName": "capers, or to taste"
+      },
+      {
+        "qty": 2,
+        "um": "tablespoons",
+        "ingredientName": "grated Parmesan cheese"
+      },
+      {
+        "qty": 1,
+        "um": "pinch",
+        "ingredientName": "salt and pepper to taste"
+      },
+      {
+        "qty": 10,
+        "um": "sheets",
+        "ingredientName": "phyllo dough"
+      },
+      {
+        "qty": 1,
+        "um": "quart",
+        "ingredientName": "vegetable oil for frying"
+      },
+      {
+        "qty": 1,
+        "um": "piece",
+        "ingredientName": "lemon, cut into wedges"
+      }
+    ],
+    "directions": [
+      {
+        "task": "Melt the butter in a skillet over medium heat. Stir in the onion, and cook until the onion has softened and turned translucent, about 5 minutes. Transfer the onion to a mixing bowl, and stir in the tuna, parsley, capers, and Parmesan cheese; season to taste with salt and pepper."
+      },
+      {
+        "task": "Cut the phyllo sheets in half lengthwise, ending up with long, narrow sheets. Lay out one strip of phyllo at a time on your work surface with one of the narrow ends close to you. Place a heaping tablespoon of filling 1 inch from the end closest to you. Fold the bottom right corner over the filling to the left edge to form a triangle. Fold the triangle up, bringing the point at the bottom left up to rest along the left edge. Turn the lower left corner over to touch the right edge. Continue turning the triangle over in this manner until you reach the end of the phyllo. Lightly brush the last inch of phyllo with water to seal. Repeat with the remaining filling and phyllo dough."
+      },
+      {
+        "task": "Heat oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C)."
+      },
+      {
+        "task": "Fry the brik in the preheated oil in batches until golden brown and crispy, about 3 minutes. Drain the brik on a paper towel-lined plate. Serve with lemon wedges."
+      }
+    ]
+  },
+  {
+    "recipeName": "Nigerian Peanut Soup",
+    "recipeCategory": "soup",
+    "recipePhoto": "https://images.media-allrecipes.com/userphotos/250x250/698803.jpg",
+    "ingredients": [
+      {
+        "qty": 4,
+        "um": "cups",
+        "ingredientName": "chicken broth"
+      },
+      {
+        "qty": 1,
+        "um": "piece",
+        "ingredientName": "jalapeno pepper, seeded and minced"
+      },
+      {
+        "qty": 0.5,
+        "um": "cup",
+        "ingredientName": "chopped green bell pepper"
+      },
+      {
+        "qty": 0.5,
+        "um": "cup",
+        "ingredientName": "chopped onion"
+      },
+      {
+        "qty": 0.5,
+        "um": "cup",
+        "ingredientName": "crunchy peanut butter"
+      }
+    ],
+    "directions": [
+      "In 1-quart saucepan add broth and chili peppers and bring mixture to a boil. Stir in bell pepper and onion and return to a boil. Reduce heat to low, cover, and let simmer until vegetables are tender, about 10 minutes.",
+      "Reduce heat to lowest possible temperature; add peanut butter and cook, stirring constantly, until peanut butter is melted and mixture is well blended."
+    ]
+  }
+]

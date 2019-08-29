@@ -1,0 +1,46 @@
+<table class="ink-table alternating">
+    <tr>
+        <th class="align-left">Recipe Name</th>
+        <td>{{recipe.recipeName}}</td>
+    </tr>
+    <tr>
+        <th class="align-left">Recipe Category</th>
+        <td>{{recipe.recipeCategory}}</td>
+    </tr>
+    <tr>
+        <th class="align-left">Recipe Photo</th>
+        <td><img src="{{recipe.recipePhoto}}"></td>
+    </tr>
+    <tr>
+        <th class="align-left">Recipe Ingredients</th>
+        <td>
+            <table class="ink-table alternating">
+                <tr>
+                    <th class="align-left">Qty</th>
+                    <th class="align-left">Unit of Measure</th>
+                    <th class="align-left">Name of Ingredient</th>
+                </tr>
+                <tr *ngFor="let ingredient of recipe.ingredients">
+                    <td>{{ingredient.qty}}</td>
+                    <td>{{ingredient.um}}</td>
+                    <td>{{ingredient.ingredientName}}</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <th class="align-left">Recipe Steps</th>
+        <td>
+            <table class="ink-table alternating">
+                <tr>
+                    <th class="align-left"></th>
+                    <th class="align-left">Task</th>
+                </tr>
+                <tr *ngFor="let direction of recipe.directions; index as i">
+                    <td>{{i + 1}}</td>
+                    <td>{{direction.task}}</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>

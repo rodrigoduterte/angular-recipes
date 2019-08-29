@@ -1,0 +1,67 @@
+<form [formGroup]="recipeForm" class="ink-form" (ngSubmit)="save(recipeForm.value)" novalidate>
+    <div class="control-group">
+        <label for="recipeName" class="all-20 align-left">Recipe Name</label>
+        <div class="control all-50">
+            <input formControlName="recipeName" type="text" />
+        </div>
+
+    </div>
+    <div class="control-group">
+        <label for="recipeType" class="all-20 align-left">Recipe Type</label>
+        <div class="control all-30">
+            <select formControlName="recipeCategory">
+                <option *ngFor="let category of values()" [value]="category">{{ category }}</option>
+            </select>
+        </div>
+    </div>
+    <div class="control-group">
+        <label for="recipePhoto" class="all-20 align-left">Recipe Photo Link</label>
+        <div class="control all-50">
+            <input type="text" formControlName="recipePhoto" />
+        </div>
+    </div>
+    <div formArrayName="ingredients">
+        <div *ngFor="let ingredient of recipeForm.controls.ingredients.controls; let i=index">
+            <div>
+                <span>Ingredient {{i + 1}}</span>
+                <a *ngIf="recipeForm.controls.ingredients.controls.length > 1" (click)="removeIngredient(i)"
+                    style="cursor: default">
+                    Remove Ingredient
+                </a>
+            </div>
+            <div [formGroupName]="i">
+                <ingredient [group]="recipeForm.controls.ingredients.controls[i]"></ingredient>
+            </div>
+        </div>
+    </div>
+    <div class="margin-20">
+        <a (click)="addIngredient()" style="cursor: default">
+            Add new ingredient
+        </a>
+    </div>
+
+    <div formArrayName="directions">
+        <div *ngFor="let direction of recipeForm.controls.directions.controls; let j=index">
+            <div>
+                <span>Step {{j + 1}}</span>
+                <a *ngIf="recipeForm.controls.directions.controls.length > 1" (click)="removeDirection(j)">
+                    Remove Step
+                </a>
+            </div>
+
+            <!-- Angular assigns array index as group name by default 0, 1, 2, ... -->
+            <div [formGroupName]="j">
+                <direction [group]="recipeForm.controls.directions.controls[j]"></direction>
+            </div>
+        </div>
+    </div>
+    <div class="margin-20">
+        <a (click)="addDirection()" style="cursor: default">
+            Add new step
+        </a>
+    </div>
+
+    <div class="control-group">
+        <button class="btn btn-primary" type="submit">Add Recipe</button>
+    </div>
+</form>
